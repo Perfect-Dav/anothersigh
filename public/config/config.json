@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1f0dD278D62868fa58016060a1548973F8AFEd55",
+  "SCAN_LINK": "https://oasis.cash/collection/0x1f0dD278D62868fa58016060a1548973F8AFEd55",
+  "NETWORK": {
+    "NAME": "SmartBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "Goblin.town",
+  "SYMBOL": "Goblin.town",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Oasis",
+  "MARKETPLACE_LINK": "https://oasis.cash/collection/0x1f0dD278D62868fa58016060a1548973F8AFEd55",
+  "SHOW_BACKGROUND": false
+}
